@@ -1,0 +1,36 @@
+//Expirement
+/*   useEffect(() => {
+    fetch();
+  }, []);
+  const fetch = async () => {
+    let response = await axios({
+      method: "POST",
+      url: "/teacher/list",
+    });
+    setlist(response.data.data);
+    console.log(
+      "🚀 ~ file: List.js ~ line 21 ~ fetch ~ response.data",
+      response.data
+    );
+  };
+ */
+    
+/*   const searchItems =  (searchValue) => {
+    setSearchV(searchValue);
+    console.log(searchValue);
+  }
+  useEffect(() => {
+    searchV && fetch();
+}, [searchV]); */
+
+/* console.log("typing_______", searchV); */
+
+/* const fetch = async() =>{
+  let response = await axios({
+      method: "GET",
+      url: `/teacher/search/${searchV}`,
+      })
+      setlist(response.data.data);
+} */
+
+  
